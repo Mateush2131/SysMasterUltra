@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SysMasterUltra2\SysMasterUltra2\obj\Debug\SysMasterUltra.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SysMasterUltra2\SysMasterUltra2\obj\Debug\SysMasterUltra.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SysMasterUltra2\SysMasterUltra2\obj\Debug\SysMasterUltra.Properties.Resources.resources
+C:\Users\Admin\source\repos\SysMasterUltra2\SysMasterUltra2\obj\Debug\SysMasterUltra.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SysMasterUltra2\SysMasterUltra2\bin\Debug\SysMasterUltra.exe.config
+C:\Users\Admin\source\repos\SysMasterUltra2\SysMasterUltra2\bin\Debug\SysMasterUltra.exe
+C:\Users\Admin\source\repos\SysMasterUltra2\SysMasterUltra2\bin\Debug\SysMasterUltra.pdb
+C:\Users\Admin\source\repos\SysMasterUltra2\SysMasterUltra2\obj\Debug\SysMasterUltra.Forms.MainForm.resources
+C:\Users\Admin\source\repos\SysMasterUltra2\SysMasterUltra2\obj\Debug\SysMasterUltra.exe
+C:\Users\Admin\source\repos\SysMasterUltra2\SysMasterUltra2\obj\Debug\SysMasterUltra.pdb
+C:\Users\Admin\source\repos\SysMasterUltra2\SysMasterUltra2\obj\Debug\SysMasterUltra.exe.config
