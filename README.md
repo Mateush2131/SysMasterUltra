@@ -120,8 +120,7 @@ SysMasterUltra/
 
 | Рефлексия (методы) | Сеть (Ping) | Безопасность (шифрование) |
 |--------------------|-------------|---------------------------|
-| <img width="300" src="https://github.com/user-attachments/assets/a9b79093-d33f-423e-ae15-f2517191b3b3" /> | <img width="300"  src="https://github.com/user-attachments/assets/37d5a3a1-ad4d-4fd2-9783-da930be93510" /> | <img width="300"  src="https://github.com/user-attachments/assets/52417163-91ab-432a-8ea5-8fb7e94352cc" />
- /> |
+| <img width="300" src="https://github.com/user-attachments/assets/a9b79093-d33f-423e-ae15-f2517191b3b3" /> | <img width="300"  src="https://github.com/user-attachments/assets/37d5a3a1-ad4d-4fd2-9783-da930be93510" /> | <img width="300"  src="https://github.com/user-attachments/assets/52417163-91ab-432a-8ea5-8fb7e94352cc" /> |
 
 | Утилиты |
 |------------------------|
